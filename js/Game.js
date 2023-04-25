@@ -1,4 +1,4 @@
-class Game {
+class Game { //ATIVIDADE NA LINHA 127 E 208
   constructor() {
    
 
